@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Función que cuenta los ceros de un número
 # E: Un número entero
 # S: Un número que indica el número de ceros del dígito ingresado
