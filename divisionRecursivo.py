@@ -5,15 +5,16 @@
 
 def divisionRecursivo (divisor, dividendo):
     if isinstance (dividendo, int) and isinstance (divisor, int):
-        return divisionRecursivo_aux (dividendo, divisor)
+        if dividendo == 0:
+            return "Error por división entre cero"
+        else:
+            return divisionRecursivo_aux (dividendo, divisor)
     else:
         return "Error, elementos incorrectos, deben ser números enteros"
 
 
 def divisionRecursivo_aux (p_divisor, p_dividendo):
-    if p_dividendo == 0:
-        return "Error por división entre cero"
-    elif p_dividendo == p_divisor:
+    if p_dividendo == p_divisor:
         return 1
     elif p_divisor < p_dividendo:
         return 0
