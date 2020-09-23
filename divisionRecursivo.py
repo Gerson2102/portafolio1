@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Función que divide 2 factores sin utilizar el operador de división entera
 # E: Un divisor y dividendo
 # S: El resultado de la división entre los factores
