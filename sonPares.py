@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Determinar si todos los dígitos de un número ingresado son pares
 # E: Un número
 # S: True si todos los dígitos son pares, de lo contrario, False
