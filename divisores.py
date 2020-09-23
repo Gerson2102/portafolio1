@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Función que imprime los divisores de un número de forma descendente
 # E: Un número entero
 # S: Los divisores impresos
