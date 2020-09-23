@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Función que calcula la potencia de otro número sin utilizar el operador de potencia
 # E: Un número entero
 # S: El número ingresado elevado
