@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Determinar si un número es impar
 # E: Un número
 # S: True si es impar, False si es par
