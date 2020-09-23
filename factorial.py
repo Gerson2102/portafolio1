@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Función que calcula el factorial de un número
 # E: Un número entero positivo
 # S: El resultado del factorial del número ingresado
