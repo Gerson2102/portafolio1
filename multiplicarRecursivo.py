@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Función que calculará el producto de 2 números
 # E: Factor A y Factor B
 # S: El resultado del producto de los números ingresados por el usuario
