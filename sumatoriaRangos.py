@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Función que desarrolla la sumatoria de un número dependiendo de un rango dado
 # E: Un número de inicio, un número de parada y un rango
 # S: La sumatoria de un número dependiendo de un rango dado por el usuario
