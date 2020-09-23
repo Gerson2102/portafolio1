@@ -1,5 +1,5 @@
 # Objetivo: Función que determina la sumatoria desde un inicio hasta un fin
-# E: Un número entero positivo
+# E: Un número de inicio y un número de parada
 # S: La sumatoria del número hasta donde el usuario quiso
 # R: Solo ingresan números enteros positivos
 
