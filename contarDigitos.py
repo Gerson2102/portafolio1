@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Función que cuenta los dígitos de un número
 # E: Un número
 # S: Un número con la cantidad de dígitos del número ingresado
