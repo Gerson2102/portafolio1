@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Función que multiplica solo los números pares de un número
 # E: Un número entero positivo
 # S: Un resultado que será la multiplicación de solo números pares
