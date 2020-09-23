@@ -1,3 +1,5 @@
+# Autor: Gerson Loaiza Vásquez
+# Carné: 2020207712
 # Objetivo: Función que busca si un número tiene ceros
 # E: Un número entero
 # S: True si tiene ceros, False de lo contrario
